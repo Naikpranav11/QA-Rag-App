@@ -1,7 +1,8 @@
 streamlit
 langchain
 langchain-groq
-qdrant-client
 sentence-transformers
 python-dotenv
 PyPDF2
+langchain-community>=0.0.1
+qdrant-client>=1.0.0
