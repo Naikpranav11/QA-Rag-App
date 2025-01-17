@@ -3,6 +3,6 @@ langchain
 langchain-groq
 sentence-transformers
 python-dotenv
-PyPDF2
+pypdf
 langchain-community>=0.0.1
 qdrant-client>=1.0.0
