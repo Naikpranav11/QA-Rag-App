@@ -2,6 +2,8 @@
 
 This project is a Streamlit-powered web application that allows users to upload PDF documents and ask questions about the content. The bot uses advanced natural language processing with the LangChain and Groq libraries to provide accurate answers.
 
+## **Link(Deployed)** - https://rag-read-mydoc.streamlit.app/
+
 ## Features
 
 - **PDF Document Upload**: Users can upload PDF documents for processing.
